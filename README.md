@@ -18,6 +18,7 @@ Since CSL-M is not the official CSL language, CSL-M styles cannot be found in th
 
 - **Právník** (Recommended instead of the CSL style due to a [locale issue](https://forums.zotero.org/discussion/85344/how-to-change-the-locale-for-a-term-to-match-the-document-language))
   - pravnik-m ([GitHub](https://github.com/OTristanF/csl-styles/blob/master/pravnik-m.csl), [Download](https://github.com/OTristanF/csl-styles/raw/master/pravnik-m.csl))
+  - WARNING: There is an [issue with a delimiter between multiple citations](https://forums.zotero.org/discussion/comment/365234/#Comment_365234). I hope I will be able to fix it soon.
   - Note: Don't forget to fill the language for non-Czech items in Zotero
     - Supported languages:
       - en
