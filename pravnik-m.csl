@@ -3,7 +3,7 @@
   <info>
     <title>Právník-M (Czech)</title>
     <id>http://www.zotero.org/styles/pravnik-m</id>
-    <link href="https://github.com/OTristanF/csl-styles/pravnik-m.csl" rel="self"/>
+    <link href="https://github.com/OTristanF/csl-styles/blob/master/pravnik-m.csl" rel="self"/>
     <link href="http://www.zotero.org/styles/pravnik" rel="template"/>
     <link href="https://www.ilaw.cas.cz/casopisy-a-knihy/casopisy/casopis-pravnik/pro-autory/pokyny-pro-autory-citace.html" rel="documentation"/>
     <author>
