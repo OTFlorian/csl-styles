@@ -17,7 +17,7 @@ You can find my CSL styles in the official GitHub and Zotero repositories.
 Since CSL-M is not the official CSL language, CSL-M styles cannot be found in the official repositories. Therefore, you can find them only here. They are made primarily for Zotero; other citation managers can have issues with them.
 
 - **Právník** (Recommended instead of the CSL style due to a [locale issue](https://forums.zotero.org/discussion/85344/how-to-change-the-locale-for-a-term-to-match-the-document-language))
-  - pravnik-m ([GitHub](https://github.com/OTristanF/csl-styles/blob/master/pravnik-m.csl), [Download](https://github.com/OTristanF/csl-styles/raw/master/pravnik-m.csl))
+  - pravnik-m ([GitHub](https://github.com/OTristanF/csl-styles/blob/master/csl-m/pravnik-m.csl), [Download](https://github.com/OTristanF/csl-styles/raw/master/csl-m/pravnik-m.csl))
   - Note: Don't forget to fill the language for non-Czech items in Zotero
     - Supported languages:
       - en
