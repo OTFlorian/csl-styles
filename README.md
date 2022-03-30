@@ -15,7 +15,7 @@ You can find my CSL styles in the official GitHub and Zotero repositories.
 - **The Lawyer Quarterly**
   - the-lawyer-quarterly ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/the-lawyer-quarterly.csl), [Zotero](https://www.zotero.org/styles?q=id%3Athe-lawyer-quarterly))
 - **Jurisprudence**
-  - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
+  - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/blob/master/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
 
 ## CSL-M
 Since CSL-M is not the official CSL language, CSL-M styles cannot be found in the official repositories. Therefore, you can find them only here. They are made primarily for Zotero; other citation managers can have issues with them.
