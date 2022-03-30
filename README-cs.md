@@ -14,6 +14,8 @@ Mé styly v CSL můžete najít v oficiálním repozitáři CSL na GitHubu nebo 
   - pravnik ([GitHub](https://github.com/citation-style-language/styles/blob/master/pravnik.csl), [Zotero](https://www.zotero.org/styles?q=id%3Apravnik))
 - **The Lawyer Quarterly**
   - the-lawyer-quarterly ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/the-lawyer-quarterly.csl), [Zotero](https://www.zotero.org/styles?q=id%3Athe-lawyer-quarterly))
+- **Jurisprudence**
+  - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
 
 ## CSL-M
 CSL-M není oficiální verzí jazyka CSL, proto styly v jazyce CSL-M nemohou být zveřejněné v oficiálním repozitáři stylů na GitHubu ani stránkách Zotera. Mé styly v CSL-M tedy můžete najít jenom zde. Jsou vytvořené primárně pro Zotero a ostatní citační manažery s ním mohou (i když nemusí) mít problém.
