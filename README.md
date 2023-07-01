@@ -27,6 +27,12 @@ Since CSL-M is not the official CSL language, CSL-M styles cannot be found in th
       - en
       - de
       - default: cs
+  - auci-m ([GitHub](https://github.com/OTristanF/csl-styles/blob/master/csl-m/auci-m.csl), [Download](https://github.com/OTristanF/csl-styles/raw/master/csl-m/auci-m.csl))
+  - Note: Don't forget to fill the language for non-Czech items in Zotero
+    - Supported languages:
+      - en
+      - de
+      - default: cs
 
 # Issues
 If you find any issues with the styles, [open a new issue here](https://github.com/OTristanF/csl-styles/issues). I will try to fix them as soon as possible.
