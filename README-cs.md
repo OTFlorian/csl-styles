@@ -27,6 +27,7 @@ CSL-M není oficiální verzí jazyka CSL, proto styly v jazyce CSL-M nemohou b�
       - en
       - de
       - default: cs
+- **Acta Universitatis Carolinae Iuridica** (**AUCI**. Doporučení: Použijte tento styl namísto stylu v CSL, citace se totiž [liší podle jazyku originálního dokumentu](https://forums.zotero.org/discussion/85344/how-to-change-the-locale-for-a-term-to-match-the-document-language).)
   - auci-m ([GitHub](https://github.com/OTristanF/csl-styles/blob/master/csl-m/auci-m.csl), [Download](https://github.com/OTristanF/csl-styles/raw/master/csl-m/auci-m.csl))
   - Poznámka: Nesmíte zapomenout uvést jazyk pro položky v Zoteru, které nejsou v češtině.
     - Podporované jazyky:
