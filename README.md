@@ -16,13 +16,13 @@ Mé styly v CSL můžete najít v oficiálním repozitáři CSL na GitHubu nebo 
   - the-lawyer-quarterly ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/the-lawyer-quarterly.csl), [Zotero](https://www.zotero.org/styles?q=id%3Athe-lawyer-quarterly))
 - **Jurisprudence**
   - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/blob/master/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
- 
+- **Acta Universitatis Carolinae Iuridica** (**AUCI**; Doporučení: Místo tohoto použijte níže uvedený styl v CSL-M, abyste splnili všechny požadavky časopisu.)
+  - auci ([GitHub](https://github.com/citation-style-language/styles/blob/master/auci.csl), [Zotero](https://www.zotero.org/styles?q=id%3Aauci))
+
 ### Čekající na schválení do oficiálního repozitáře
 
-- **Acta Universitatis Carolinae Iuridica** (**AUCI**; Doporučení: Místo tohoto použijte níže uvedený styl v CSL-M, abyste splnili všechny požadavky časopisu.)
-  - auci ([GitHub](https://github.com/OTFlorian/styles/raw/patch-10/auci.csl))
 - **Časopis pro právní vědu a praxi**
-  - cpvp ([GitHub](https://github.com/OTFlorian/styles/raw/patch-13/cpvp.csl))
+  - casopis-pro-pravni-vedu-a-praxi ([GitHub](https://github.com/OTFlorian/styles/raw/patch-13/casopis-pro-pravni-vedu-a-praxi.csl))
 - **Právny obzor**
   - pravny-obzor ([GitHub](https://github.com/OTFlorian/styles/raw/patch-14/pravny-obzor.csl))
 
