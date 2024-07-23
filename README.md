@@ -1,7 +1,7 @@
 # Mé styly pro citační manažery
 Tento repozitář používám k nahrávání vlastních stylů v CSL-M a k odkázání na své styly v CSL, které jsou zveřejněné v oficiálním repozitáři.
 
-**The original README is available [here](https://github.com/OTristanF/csl-styles).**
+**The README in English is available [here](https://github.com/OTristanF/csl-styles/blob/master/README-en.md).**
 
 ## CSL
 Mé styly v CSL můžete najít v oficiálním repozitáři CSL na GitHubu nebo v repozitářů stylů do Zotera.
