@@ -16,7 +16,7 @@ You can find my CSL styles in the official GitHub and Zotero repositories.
   - the-lawyer-quarterly ([GitHub](https://github.com/citation-style-language/styles/tree/master/dependent/the-lawyer-quarterly.csl), [Zotero](https://www.zotero.org/styles?q=id%3Athe-lawyer-quarterly))
 - **Jurisprudence**
   - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/blob/master/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
-- **Acta Universitatis Carolinae Iuridica** (**AUCI**, (use CSL-M style instead, see below)
+- **Acta Universitatis Carolinae Iuridica** (**AUCI**; use CSL-M style instead, see below)
   - auci ([GitHub](https://github.com/OTFlorian/styles/raw/patch-10/auci.csl))
 - **Časopis pro právní vědu a praxi**
   - cpvp ([GitHub](https://github.com/OTFlorian/styles/raw/patch-13/cpvp.csl))
