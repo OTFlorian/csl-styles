@@ -18,11 +18,11 @@ You can find my CSL styles in the official GitHub and Zotero repositories.
   - jurisprudence ([GitHub](https://github.com/citation-style-language/styles/blob/master/jurisprudence.csl), [Zotero](https://www.zotero.org/styles?q=id%3Ajurisprudence))
 - **Acta Universitatis Carolinae Iuridica** (**AUCI**; use CSL-M style instead, see below)
   - auci ([GitHub](https://github.com/citation-style-language/styles/blob/master/auci.csl), [Zotero](https://www.zotero.org/styles?q=id%3Aauci))
+- **Časopis pro právní vědu a praxi**
+  - casopis-pro-pravni-vedu-a-praxi ([GitHub](https://github.com/citation-style-language/styles/blob/master/casopis-pro-pravni-vedu-a-praxi.csl), [Zotero](https://www.zotero.org/styles?q=id%3Acasopis-pro-pravni-vedu-a-praxi))
 
 ### Pending approval for the official repository
 
-- **Časopis pro právní vědu a praxi**
-  - casopis-pro-pravni-vedu-a-praxi ([GitHub](https://github.com/OTFlorian/styles/raw/patch-13/casopis-pro-pravni-vedu-a-praxi.csl))
 - **Právny obzor**
   - pravny-obzor ([GitHub](https://github.com/OTFlorian/styles/raw/patch-14/pravny-obzor.csl))
 
